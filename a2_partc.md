@@ -3,7 +3,3 @@
 Put link to your video demonstrating your feature here.  See assignment specs on what is required for this component
 
 https://youtu.be/n3JwuKRSAbA
-
-https://youtu.be/YTeRQSeCBsk
-
-https://youtu.be/ryWg2XT-ZRs
